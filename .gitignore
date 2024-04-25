@@ -26,7 +26,12 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+<<<<<<< HEAD
 .env*
+=======
+.env
+
+>>>>>>> b2b4f4f (Hide .env)
 # vercel
 .vercel
 
